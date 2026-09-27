@@ -29,3 +29,12 @@ Employee details were saved successfully.
 
 ## Execution Status
 PASS
+
+
+## Test Execution Results
+
+- **Test Case ID:** TC_001
+- **Execution Status:** PASS
+- **Actual Result:** Employee details were saved successfully.
+- **Expected Result:** Employee details should be saved successfully and displayed accurately.
+- **Defect ID:** N/A
